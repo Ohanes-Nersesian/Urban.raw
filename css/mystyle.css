@@ -23,9 +23,6 @@ img {
 }
 /*media*/
 @media screen and (max-width: 1200px) {
-    .conteiner{
-        width: 400px;
-    }
     .header-nav{
         display: none;
     }
